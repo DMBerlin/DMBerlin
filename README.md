@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel 👋
 
 - 🔭 Back-end developer
-- 🌱 Always improving and trying. You can´t be affraid to fail
+- 🌱 Always improving and learning
 - 📫 How to reach me: contato@danielmarinho.dev
 - 😄 Pronouns: he/him
 
