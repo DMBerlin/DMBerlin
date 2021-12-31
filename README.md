@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-- 🔭 Back-end developer
+- 🔭 Software Engineer
 - 🌱 Always improving and learning
 - 📫 How to reach me: contato@danielmarinho.dev
 - 😄 Pronouns: he/him
