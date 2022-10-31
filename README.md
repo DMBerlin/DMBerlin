@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/dmberlin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmberlin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmberlin&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DMBerlin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DMBerlin&theme=blue-green&hide_border=false"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -29,7 +29,8 @@
 </div>
   
   
-![Snake animation](https://github.com/dmberlin/dmberlin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dmberlin/dmberlin/blob/output/github-contribution-grid-snake.svg)  
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 ##
   
