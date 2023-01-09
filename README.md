@@ -31,7 +31,7 @@
 </div>
   
   
-![Snake animation](https://github.com/dmberlin/dmberlin/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/dmberlin/dmberlin/blob/output/github-contribution-grid-snake.svg)
 <!--![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)-->
   
 ##
