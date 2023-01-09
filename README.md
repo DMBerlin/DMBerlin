@@ -9,7 +9,8 @@
 <div align="center">
   <a href="https://github.com/dmberlin">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DMBerlin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DMBerlin&theme=blue-green&hide_border=false"/>
+  <!--<img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DMBerlin&theme=blue-green&hide_border=false"/>-->
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DMBerlin&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
