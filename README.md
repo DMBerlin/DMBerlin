@@ -7,9 +7,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/dmberlin">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DMBerlin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DMBerlin&theme=blue-green&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caio20538&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=blue_green&locale=en&hide_border=false" height="150" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caio20538&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_green&hide_border=false" height="150" alt="Linguagens mais usadas" />
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
