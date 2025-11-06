@@ -7,11 +7,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/dmberlin">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DMBerlin&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DMBerlin&theme=blue-green&hide_border=false"/>
-</div>
+![DMBerlin's Stats](https://github-readme-stats.vercel.app/api?username=DMBerlin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![DMBerlin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DMBerlin&theme=tokyonight&hide_border=true)
+
+![DMBerlin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DMBerlin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ###
     
